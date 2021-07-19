@@ -1,4 +1,4 @@
 # ezDisplay powered by VK Electronics
 
-!(/ezDisplay.png)
+!ezDisplay(/ezDisplay.png)
 
