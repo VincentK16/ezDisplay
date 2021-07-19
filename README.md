@@ -1,4 +1,4 @@
 # ezDisplay
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/ezDisplay.png)
 Format: ![Alt Text](url)
