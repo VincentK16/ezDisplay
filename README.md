@@ -1,4 +1,4 @@
-# ezDisplay
+# ezDisplay powered by VK Electronics
 
 ![GitHub Logo](/ezDisplay.png)
-Format: ![Alt Text](url)
+
