@@ -8,10 +8,10 @@
    ![battery](https://github.com/VincentK16/ezDisplay/blob/main/images/battery.gif)
 2. Convert GIF to frames of images: https://ezgif.com/split
    
-   *- Split the downloaded GIF into the respective frames of images:*
+   * Split the downloaded GIF into the respective frames of images:
    ![split](images/split-images.png)
    
-   *- You can customize the animation using the GIF Maker:*
+   * You can customize the animation using the GIF Maker:
    ![gifmaker](images/gif-maker.png)
    
 3. Resize the frames of images to size of OLED (128 x 64 pixels): https://ezgif.com/resize
