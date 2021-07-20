@@ -2,6 +2,8 @@
 
 ![ezDisplay](/images/ezDisplay.png)
 
+![hardware](/images/hardwareoverview.png)
+
 _**Repo structure:**_
 
  example <br>
