@@ -15,7 +15,13 @@
    ![gifmaker](images/gif-maker.png)
    
 3. Resize the frames of images to size of OLED (128 x 64 pixels): https://ezgif.com/resize
+   ![resize](images/resize.png)
+
 4. Convert image extesion to BMP: Paint software
+   ![extension](images/paint_gif.png)
+   
+   * Choose the file extension as Monochrome BMP:
+     ![extension_bmp](images/paint_bmp.png)
 
 *Demo*:
 
