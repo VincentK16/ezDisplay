@@ -24,6 +24,21 @@
    * Choose the file extension as Monochrome BMP:
      ![extension_bmp](images/paint_bmp.png)
 
+5. Convert the images into bytes arrays for Arduino code use: https://javl.github.io/image2cpp/ 
+   * Load the converted BMP image and change the configurations (as your own preference - trials and errors)
+     ![bmp_1](images/image2cpp_1.png)
+     
+   * Generate the byte arrays code. One image correspond to one **Identifier/Prefix:**
+     ![bmp_2](images/image2cpp_2.png)
+     
+   * Paste the generate byte arrays code into the Arduino code (Info1.h or Info2.h or Info3.h .....) in *sample* folder
+     ![bytes](images/info1.png)
+     
+   * Change the sequence and name of the *drawImage* function on Arduino main code
+     ![bytes](images/arduino.png)
+     
+![congrats](images/congrats.png)
+
 *Demo*:
 
 https://user-images.githubusercontent.com/3338753/126266203-f6aac0b2-3e78-4521-9fda-b27abc24194b.mp4
