@@ -35,7 +35,7 @@
      ![bytes](images/info1.png)
      
    * Change the sequence and name of the *drawImage* function on Arduino main code
-     ![bytes](images/arduino.png)
+     ![bytes](images/arduino_2.png)
      
 ![congrats](images/congrats.png)
 
