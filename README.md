@@ -23,11 +23,11 @@ _**Repo structure:**_
 3. Resize the frames of images to size of OLED (128 x 64 pixels): https://ezgif.com/resize
    ![resize](images/resize.png)
 
-4. Convert image extesion to BMP: Paint software
-   * Load the GIF image on **Paint** software 
+4. Convert image extesion to BMP: Paint software 
+   * Load the GIF image on **Paint** software<br>
    ![extension](images/paint_gif.png)
    
-   * Choose the file extension as Monochrome BMP:
+   * Choose the file extension as Monochrome BMP: <br>
      ![extension_bmp](images/paint_bmp.png)
 
 5. Convert the images into bytes arrays for Arduino code use: https://javl.github.io/image2cpp/ 
