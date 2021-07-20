@@ -23,6 +23,6 @@ https://user-images.githubusercontent.com/3338753/126266203-f6aac0b2-3e78-4521-9
 
 Product Review by Johnson Lam, Founder of KakiDIY
 
-![review]("www.youtube.com/embed/zmygiUdSmgM") 
+![review](www.youtube.com/embed/zmygiUdSmgM) 
 
 
