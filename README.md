@@ -1,3 +1,5 @@
+Uploading ezDisplay_BatteryCharging.mp4…
+
 # ezDisplay powered by VK Electronics
 
 ![ezDisplay](images/ezDisplay.png)
