@@ -8,6 +8,6 @@
 3. Convert image extesion to BMP: Paint software
 
 *Demo*
-https://user-images.githubusercontent.com/3338753/126265927-668eb005-cd89-425d-8113-8dece7dd8807.mp4
+![demovideo](https://user-images.githubusercontent.com/3338753/126265927-668eb005-cd89-425d-8113-8dece7dd8807.mp4)
 
 
