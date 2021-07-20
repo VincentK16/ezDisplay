@@ -3,9 +3,10 @@
 ![ezDisplay](/images/ezDisplay.png)
 
 _**Repo structure:**_
-├── example
-│   ├── ezDisplay_Badge (Arduino sample code)
-│   └── bitmap_samples (BMP format images used for sample)
+
+ example <br>
+ ├── ezDisplay_Badge (Arduino sample code)<br>
+ └── bitmap_samples (BMP format images used for sample)
 
 **Steps and Tools used:**
 1. Search for the GIF you want to display: https://icons8.com/free-animated-icons/charging-battery
