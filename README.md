@@ -18,6 +18,7 @@
    ![resize](images/resize.png)
 
 4. Convert image extesion to BMP: Paint software
+   * Load the GIF image on **Paint** software 
    ![extension](images/paint_gif.png)
    
    * Choose the file extension as Monochrome BMP:
