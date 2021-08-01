@@ -4,6 +4,10 @@
 
 ![hardware](/images/hardwareoverview.png)
 
+![schematic](/images/schematic.png)
+
+![layout](/images/layout.png)
+
 _**Repo structure:**_
 
  example <br>
