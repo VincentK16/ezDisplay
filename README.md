@@ -6,7 +6,9 @@
 
 ![schematic](/images/schematic.png)
 
-![layout](/images/layout.png)
+![layout top](/images/layout_top.png)
+
+![layout bottom](/images/layout_bottom.png)
 
 _**Repo structure:**_
 
