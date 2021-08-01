@@ -4,11 +4,12 @@
 
 ![hardware](/images/hardwareoverview.png)
 
-![schematic](/images/schematics.PNG)
-
-![layout top](/images/layout_top.PNG)
-
-![layout bottom](/images/layout_bottom.PNG)
+**Schematics** <br>
+![schematic](/images/schematics.PNG) <br>
+**Layout (TOP)** <br>
+![layout top](/images/layout_top.PNG) <br>
+**Layout (BOTTOM)** <br>
+![layout bottom](/images/layout_bottom.PNG)<BR>
 
 _**Repo structure:**_
 
