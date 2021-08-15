@@ -4,7 +4,7 @@
 
 ![hardware](/images/hardwareoverview.png)
 
-**Schematics** <br>
+### Schematics <br>
 ![schematic](/images/schematics.PNG) <br>
 **Layout (TOP)** <br>
 ![layout top](/images/layout_top.PNG) <br>
@@ -19,7 +19,7 @@ _**Repo structure:**_
  [PROGRAMMING.md](https://github.com/VincentK16/ezDisplay/blob/main/PROGRAMMING.md) (Guide on how to program ezDisplay) <br>
  [SETTINGUP.md](https://github.com/VincentK16/ezDisplay/blob/main/SETTINGUP.md) (Guide on how to set up the programming environment, Attiny 85 board installation etc...)
 
-**Steps and Tools used:**
+### Steps and Tools used:
 1. Search for the GIF you want to display: https://icons8.com/free-animated-icons/charging-battery
    
    ![battery](https://github.com/VincentK16/ezDisplay/blob/main/images/battery.gif)
